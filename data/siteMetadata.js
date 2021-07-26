@@ -1,7 +1,7 @@
 const siteMetadata = {
   title: 'Tell Yourself the Truth Blog',
   author: 'Tim Frederick',
-  headerTitle: 'TailwindBlog',
+  headerTitle: 'Tell Yourself The Truth',
   description: 'A blog created with Next.js and Tailwind.css',
   language: 'en-us',
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
