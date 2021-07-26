@@ -1,5 +1,5 @@
 ---
-name: Tails Azimuth
+name: Tim Frederick
 avatar: /static/images/avatar.png
 occupation: Professor of Atmospheric Science
 company: Stanford University
