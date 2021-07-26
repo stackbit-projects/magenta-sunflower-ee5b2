@@ -15,7 +15,7 @@ export default function Projects() {
             Great Works
           </h1>
           <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">
-            Showcase your projects with a hero image (16 x 9)
+            Check out some amazing information from other teachers and content creators
           </p>
         </div>
         <div className="container py-12">
