@@ -1,7 +1,7 @@
 ---
 name: Tim Frederick
 avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
+occupation: Free Thinker
 company: Stanford University
 email: address@yoursite.com
 twitter: https://twitter.com/Twitter
