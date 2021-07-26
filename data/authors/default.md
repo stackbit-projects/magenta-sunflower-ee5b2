@@ -2,7 +2,7 @@
 name: Tim Frederick
 avatar: /static/images/avatar.png
 occupation: Free Thinker
-company: F
+company: Free Thinking
 email: address@yoursite.com
 twitter: https://twitter.com/Twitter
 linkedin: https://www.linkedin.com
